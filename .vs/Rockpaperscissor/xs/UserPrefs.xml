@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.Rockpaperscissor FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rockpaperscissor/Player.cs">
+    <Files>
+      <File FileName="Rockpaperscissor/Class1.cs" Line="3" Column="35" />
+      <File FileName="Rockpaperscissor/val.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rockpaperscissor" expanded="True">
+            <Node name="Rockpaperscissor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
